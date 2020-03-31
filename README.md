@@ -29,3 +29,15 @@ Method 2: From “Playlists” tab, choose your desired playlist, click “Selec
 Method 3: From “Schedules” tab, choose your desired schedule, click “Select screens” and assign this schedule to a single screen or a group of screens.
 
 View detail:https://gigasource.io/cloud-signage/
+
+## Customize digital signage. 
+Describe your idea and we will reply within 24 hours.
+- Website: https://gigasource.io/
+- Email: info@gigasource.io
+## Related Products
+- https://gigasource.io/media-slider/
+- https://gigasource.io/face-attendance/
+- https://gigasource.io/visitor-analyzer/
+- https://gigasource.io/pos-retail/
+- https://gigasource.io/crm/
+- https://gigasource.io/cloud-signage/
