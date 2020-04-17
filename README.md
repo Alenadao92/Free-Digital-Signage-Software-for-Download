@@ -35,14 +35,24 @@ We offer a very competitive price and minimal upfront cost.
 
 View detail:https://gigasource.io/cloud-signage/
 
-## Customize digital signage. 
+## More Details
 Describe your idea and we will reply within 24 hours.
 - Website: https://gigasource.io/
 - Email: info@gigasource.io
-## Related Products
-- https://gigasource.io/media-slider/
-- https://gigasource.io/face-attendance/
-- https://gigasource.io/visitor-analyzer/
-- https://gigasource.io/pos-retail/
-- https://gigasource.io/crm/
-- https://gigasource.io/cloud-signage/
+
+## Fast Custom Solution
+If You’re Looking For Software Tailored Your Own Business. We’ll Get You There Faster At A Better Price
+Try It Free: https://gigasource.io/face-attendance/
+
+
+## Free Software On Github
+1. [Cloud based Digital Signage Software](https://gigasource.io/cloud-signage/)
+2. [Facial Recognition Attendance System](https://gigasource.io/face-attendance/)
+3. [POS For Restaurant](https://gigasource.io/pos-restaurant/)
+4. [POS For Retail](https://gigasource.io/pos-retail/)
+5. [Face Recognition In Casino](https://gigasource.io/facial-recognition-in-casinos/)
+6. [Food Online Ordering System](https://gigasource.io/food-online-ordering/)
+7. [Facial Recognition In School](https://gigasource.io/facial-recognition-in-school/)
+8. [Facial Recognition In Airport](https://gigasource.io/biometric-facial-recognition-in-airports/)
+9. [Facial Recognition In Retail](https://gigasource.io/facial-recognition-in-retail-stores/)
+10. [Face Recognition Software Company](https://gigasource.io/face-recognition-software-company/)
