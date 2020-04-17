@@ -22,6 +22,8 @@ Method 1: From “Screen” tab, find your screen and click “select content”
 Method 2: From “Playlists” tab, choose your desired playlist, click “Select screens” and assign this playlist to a single screen or a group of screens.
 Method 3: From “Schedules” tab, choose your desired schedule, click “Select screens” and assign this schedule to a single screen or a group of screens.
 
+## Outstanding Features
+
 ### Cloud technology
 Organize contents, manage screens remotely by utilizing the latest cloud technology.
 ### Affordable price
