@@ -1,5 +1,5 @@
 # FREE Cloud Based Digital Signage Software 
-The FREE cloud-based digital signage software helps you add, manage & schedule beautiful digital signage in a snap! Custom digital signage with face recognition technology.
+The FREE [cloud-based digital signage software](https://gigasource.io/cloud-signage/) helps you add, manage & schedule beautiful digital signage in a snap! Custom digital signage with face recognition technology.
 ### Better Advertising With Face Recognition Technology
 ![digital signage with face recognition](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/visitor-application2-1024x650.png)
 ## How To Use
